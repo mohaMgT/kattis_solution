@@ -60,7 +60,12 @@
 |[Reduplication](https://github.com/mohaMgT/kattis_solution/tree/main/File/Reduplication)|[Click Me!](https://open.kattis.com/problems/reduplikation)|
 |[Sith](https://github.com/mohaMgT/kattis_solution/tree/main/File/Sith)|[Click Me!](https://open.kattis.com/problems/sith)|
 |[Sort Two Numbers](https://github.com/mohaMgT/kattis_solution/tree/main/File/Sort%20Two%20Numbers)|[Click Me!](https://open.kattis.com/problems/sorttwonumbers)|
+|[Nasty Hacks](https://github.com/mohaMgT/kattis_solution/tree/main/File/Nasty%20Hacks)|[Click Me!](https://open.kattis.com/problems/nastyhacks?editresubmit=12795510)|
+|[IsItHalloween.com](https://github.com/mohaMgT/kattis_solution/tree/main/File/IsItHalloween.com)|[Click Me!](https://open.kattis.com/problems/isithalloween?editresubmit=12795600)|
+|[Chanukah Challenge](https://github.com/mohaMgT/kattis_solution/tree/main/File/Chanukah%20Challenge)|[Click Me!](https://open.kattis.com/problems/chanukah)|
+|[]()|[Click Me!]()|
 
+|[]()|[Click Me!]()|
 
 
 
