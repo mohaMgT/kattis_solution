@@ -44,7 +44,7 @@
 |[Oddities](https://github.com/mohaMgT/kattis_solution/tree/main/File/Oddities)|[Click Me!](https://open.kattis.com/problems/oddities)|
 |[I've Been Everywhere, Man](https://github.com/mohaMgT/kattis_solution/tree/main/File/I've%20Been%20Everywhere%2C%20Man)|[Click Me!](https://open.kattis.com/problems/everywhere)|
 |[Pot](https://github.com/mohaMgT/kattis_solution/tree/main/File/Pot)|[Click Me!](https://open.kattis.com/problems/pot)|
-|[Detailed Differences[]()|[](https://github.com/mohaMgT/kattis_solution/tree/main/File/Detailed%20Differences)Click Me!](https://open.kattis.com/problems/detaileddifferences)|
+|[Detailed Differences](https://github.com/mohaMgT/kattis_solution/tree/main/File/Detailed%20Differences)|[Click Me!](https://open.kattis.com/problems/detaileddifferences)|
 |[Tarifa](https://github.com/mohaMgT/kattis_solution/tree/main/File/Tarifa)|[Click Me!](https://open.kattis.com/problems/tarifa)|
 |[Faktor](https://github.com/mohaMgT/kattis_solution/tree/main/File/Faktor)|[Click Me!](https://open.kattis.com/problems/faktor)|
 |[Velkomin!](https://github.com/mohaMgT/kattis_solution/tree/main/File/Velkomin!)|[Click Me!](https://open.kattis.com/problems/velkomin)|
