@@ -35,7 +35,7 @@
 |[Odd Echo](https://github.com/mohaMgT/kattis_solution/tree/main/File/Odd%20Echo)|[Click Me!](https://open.kattis.com/problems/oddecho)|
 |[Spritt](https://github.com/mohaMgT/kattis_solution/tree/main/File/Spritt)|[Click Me!](https://open.kattis.com/problems/spritt)|
 |[Veður - Lokaðar heiðar](https://github.com/mohaMgT/kattis_solution/tree/main/File/Ve%C3%B0ur%20-%20Loka%C3%B0ar%20hei%C3%B0ar)|[Click Me!](https://open.kattis.com/problems/vedurheidar)|
-|[Sibice][(](https://github.com/mohaMgT/kattis_solution/tree/main/File/Sibice))|[Click Me!](https://open.kattis.com/problems/sibice)|
+|[Sibice](https://github.com/mohaMgT/kattis_solution/tree/main/File/Sibice))|[Click Me!](https://open.kattis.com/problems/sibice)|
 |[Trik](https://github.com/mohaMgT/kattis_solution/tree/main/File/Trik)|[Click Me!](https://open.kattis.com/problems/trik)|
 |[Solving for Carrots](https://github.com/mohaMgT/kattis_solution/tree/main/File/Solving%20for%20Carrots)|[Click Me!](https://open.kattis.com/problems/carrots)|
 |[Pet](https://github.com/mohaMgT/kattis_solution/tree/main/File/Pet)|[Click Me!](https://open.kattis.com/problems/pet)|
@@ -54,10 +54,13 @@
 |[Framtíðar FIFA](https://github.com/mohaMgT/kattis_solution/tree/main/File/Framt%C3%AD%C3%B0ar%20FIFA)|[Click Me!](https://open.kattis.com/problems/fifa)|
 |[Viðsnúningur](https://github.com/mohaMgT/kattis_solution/tree/main/File/Vi%C3%B0sn%C3%BAningur)|[Click Me!](https://open.kattis.com/problems/vidsnuningur)|
 |[Á leið í bíó](https://github.com/mohaMgT/kattis_solution/tree/main/File/%C3%81%20lei%C3%B0%20%C3%AD%20b%C3%AD%C3%B3)|[Click Me!](https://open.kattis.com/problems/aleidibio)|
-|[]()|[Click Me!]()|
-|[]()|[Click Me!]()|
-|[]()|[Click Me!]()|
-|[]()|[Click Me!]()|
+|[Millifærsla](https://github.com/mohaMgT/kattis_solution/tree/main/File/Millif%C3%A6rsla)|[Click Me!](https://open.kattis.com/problems/millifaersla)|
+|[Tölvunarfræðingar telja](https://github.com/mohaMgT/kattis_solution/tree/main/File/T%C3%B6lvunarfr%C3%A6%C3%B0ingar%20telja)|[Click Me!](https://open.kattis.com/problems/tolvunarfraedingartelja)|
+|[Flatbökuveisla](https://github.com/mohaMgT/kattis_solution/tree/main/File/Flatb%C3%B6kuveisla)|[Click Me!](https://open.kattis.com/problems/flatbokuveisla)|
+|[Reduplication](https://github.com/mohaMgT/kattis_solution/tree/main/File/Reduplication)|[Click Me!](https://open.kattis.com/problems/reduplikation)|
+|[Sith](https://github.com/mohaMgT/kattis_solution/tree/main/File/Sith)|[Click Me!](https://open.kattis.com/problems/sith)|
+|[Sort Two Numbers[]()|[](https://github.com/mohaMgT/kattis_solution/tree/main/File/Sort%20Two%20Numbers)Click Me!](https://open.kattis.com/problems/sorttwonumbers)|
+
 
 
 
