@@ -59,7 +59,7 @@
 |[Flatbökuveisla](https://github.com/mohaMgT/kattis_solution/tree/main/File/Flatb%C3%B6kuveisla)|[Click Me!](https://open.kattis.com/problems/flatbokuveisla)|
 |[Reduplication](https://github.com/mohaMgT/kattis_solution/tree/main/File/Reduplication)|[Click Me!](https://open.kattis.com/problems/reduplikation)|
 |[Sith](https://github.com/mohaMgT/kattis_solution/tree/main/File/Sith)|[Click Me!](https://open.kattis.com/problems/sith)|
-|[Sort Two Numbers[]()|[](https://github.com/mohaMgT/kattis_solution/tree/main/File/Sort%20Two%20Numbers)Click Me!](https://open.kattis.com/problems/sorttwonumbers)|
+|[Sort Two Numbers](https://github.com/mohaMgT/kattis_solution/tree/main/File/Sort%20Two%20Numbers)|[Click Me!](https://open.kattis.com/problems/sorttwonumbers)|
 
 
 
