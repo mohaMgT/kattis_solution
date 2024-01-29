@@ -32,6 +32,18 @@
 |[Bitte ein Bit](https://github.com/mohaMgT/kattis_solution/tree/main/File/Bitte%20ein%20Bit)|[Click Me!](https://open.kattis.com/problems/bitteeinbit)|
 |[Shandy](https://github.com/mohaMgT/kattis_solution/tree/main/File/Shandy)|[Click Me!](https://open.kattis.com/problems/shandy)|
 |[Kiki Boba](https://github.com/mohaMgT/kattis_solution/tree/main/File/Kiki%20Boba)|[Click Me!](https://open.kattis.com/problems/kikiboba)|
+|[Odd Echo](https://github.com/mohaMgT/kattis_solution/tree/main/File/Odd%20Echo)|[Click Me!](https://open.kattis.com/problems/oddecho)|
+|[Spritt](https://github.com/mohaMgT/kattis_solution/tree/main/File/Spritt)|[Click Me!](https://open.kattis.com/problems/spritt)|
+|[Veður - Lokaðar heiðar](https://github.com/mohaMgT/kattis_solution/tree/main/File/Ve%C3%B0ur%20-%20Loka%C3%B0ar%20hei%C3%B0ar)|[Click Me!](https://open.kattis.com/problems/vedurheidar)|
+|[Sibice][(](https://github.com/mohaMgT/kattis_solution/tree/main/File/Sibice))|[Click Me!](https://open.kattis.com/problems/sibice)|
+|[Trik](https://github.com/mohaMgT/kattis_solution/tree/main/File/Trik)|[Click Me!](https://open.kattis.com/problems/trik)|
+|[Solving for Carrots](https://github.com/mohaMgT/kattis_solution/tree/main/File/Solving%20for%20Carrots)|[Click Me!](https://open.kattis.com/problems/carrots)|
+|[Pet](https://github.com/mohaMgT/kattis_solution/tree/main/File/Pet)|[Click Me!](https://open.kattis.com/problems/pet)|
+|[Apaxiaaaaaaaaaaaans](https://github.com/mohaMgT/kattis_solution/tree/main/File/Apaxiaaaaaaaaaaaans)|[Click Me!](https://open.kattis.com/problems/apaxiaaans)|
+|[Cold-puter Science](https://github.com/mohaMgT/kattis_solution/tree/main/File/Cold-puter%20Science)|[Click Me!](https://open.kattis.com/problems/cold)|
+|[Oddities](https://github.com/mohaMgT/kattis_solution/tree/main/File/Oddities)|[Click Me!](https://open.kattis.com/problems/oddities)|
+|[I've Been Everywhere, Man](https://github.com/mohaMgT/kattis_solution/tree/main/File/I've%20Been%20Everywhere%2C%20Man)|[Click Me!](https://open.kattis.com/problems/everywhere)|
+|[Pot](https://github.com/mohaMgT/kattis_solution/tree/main/File/Pot)|[Click Me!](https://open.kattis.com/problems/pot)|
 |[]()|[Click Me!]()|
 |[]()|[Click Me!]()|
 |[]()|[Click Me!]()|
@@ -39,8 +51,6 @@
 |[]()|[Click Me!]()|
 |[]()|[Click Me!]()|
 |[]()|[Click Me!]()|
-
-
 |[]()|[Click Me!]()|
 
 
