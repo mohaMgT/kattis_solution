@@ -1,3 +1,3 @@
 # kattis_solution
-|#|File|Kattis Link|
+|Row|File|Kattis Link|
 |1|--|--|
