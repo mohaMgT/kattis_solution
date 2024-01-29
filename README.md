@@ -44,16 +44,20 @@
 |[Oddities](https://github.com/mohaMgT/kattis_solution/tree/main/File/Oddities)|[Click Me!](https://open.kattis.com/problems/oddities)|
 |[I've Been Everywhere, Man](https://github.com/mohaMgT/kattis_solution/tree/main/File/I've%20Been%20Everywhere%2C%20Man)|[Click Me!](https://open.kattis.com/problems/everywhere)|
 |[Pot](https://github.com/mohaMgT/kattis_solution/tree/main/File/Pot)|[Click Me!](https://open.kattis.com/problems/pot)|
+|[Detailed Differences[]()|[](https://github.com/mohaMgT/kattis_solution/tree/main/File/Detailed%20Differences)Click Me!](https://open.kattis.com/problems/detaileddifferences)|
+|[Tarifa](https://github.com/mohaMgT/kattis_solution/tree/main/File/Tarifa)|[Click Me!](https://open.kattis.com/problems/tarifa)|
+|[Faktor](https://github.com/mohaMgT/kattis_solution/tree/main/File/Faktor)|[Click Me!](https://open.kattis.com/problems/faktor)|
+|[Velkomin!](https://github.com/mohaMgT/kattis_solution/tree/main/File/Velkomin!)|[Click Me!](https://open.kattis.com/problems/velkomin)|
+|[Hello World!]()|[Click Me!](https://open.kattis.com/problems/hello)|
+|[Hello World!](https://github.com/mohaMgT/kattis_solution/tree/main/File/Hello%20World!)|[Click Me!](https://open.kattis.com/problems/hello)|
+|[Óvissa](https://github.com/mohaMgT/kattis_solution/tree/main/File/%C3%93vissa)|[Click Me!](https://open.kattis.com/problems/ovissa)|
+|[Framtíðar FIFA](https://github.com/mohaMgT/kattis_solution/tree/main/File/Framt%C3%AD%C3%B0ar%20FIFA)|[Click Me!](https://open.kattis.com/problems/fifa)|
+|[Viðsnúningur](https://github.com/mohaMgT/kattis_solution/tree/main/File/Vi%C3%B0sn%C3%BAningur)|[Click Me!](https://open.kattis.com/problems/vidsnuningur)|
+|[Á leið í bíó](https://github.com/mohaMgT/kattis_solution/tree/main/File/%C3%81%20lei%C3%B0%20%C3%AD%20b%C3%AD%C3%B3)|[Click Me!](https://open.kattis.com/problems/aleidibio)|
 |[]()|[Click Me!]()|
 |[]()|[Click Me!]()|
 |[]()|[Click Me!]()|
 |[]()|[Click Me!]()|
-|[]()|[Click Me!]()|
-|[]()|[Click Me!]()|
-|[]()|[Click Me!]()|
-|[]()|[Click Me!]()|
-
-
 
 
 
