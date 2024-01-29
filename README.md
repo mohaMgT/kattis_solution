@@ -15,6 +15,13 @@
 |[R2](https://github.com/mohaMgT/kattis_solution/tree/main/File/r2)|[Click Me!](https://open.kattis.com/problems/r2)|
 |[Autori](https://github.com/mohaMgT/kattis_solution/tree/main/File/Autori)|[Click Me!](https://open.kattis.com/problems/autori)|
 |[Hissing Microphone](https://github.com/mohaMgT/kattis_solution/tree/main/File/Hissing%20Microphone)|[Click Me!](https://open.kattis.com/problems/hissingmicrophone)|
+|[Quality-Adjusted Life-Year](https://github.com/mohaMgT/kattis_solution/tree/main/File/Quality-Adjusted%20Life-Year)|[Click Me!](https://open.kattis.com/problems/qaly)|
+|[Last Factorial Digit](https://github.com/mohaMgT/kattis_solution/tree/main/File/Last%20Factorial%20Digit)|[Click Me!](https://open.kattis.com/problems/lastfactorialdigit)|
+|[Jack-O'-Lantern Juxtaposition](https://github.com/mohaMgT/kattis_solution/tree/main/File/Jack-O'-Lantern%20Juxtaposition)|[Click Me!](https://open.kattis.com/problems/jackolanternjuxtaposition)|
+|[FYI](https://github.com/mohaMgT/kattis_solution/tree/main/File/FYI)|[Click Me!](https://open.kattis.com/problems/fyi)|
+|[Jumbo Javelin](https://github.com/mohaMgT/kattis_solution/blob/main/File/Jumbo%20Javelin/jumbojavelin.py)|[Click Me!](https://open.kattis.com/problems/jumbojavelin)|
+|[Add Two Numbers](https://github.com/mohaMgT/kattis_solution/tree/main/File/Add%20Two%20Numbers)|[Click Me!](https://open.kattis.com/problems/addtwonumbers)|
+|[Echo Echo Echo](https://github.com/mohaMgT/kattis_solution/tree/main/File/Echo%20Echo%20Echo)|[Click Me!](https://open.kattis.com/problems/echoechoecho)|
 |[]()|[Click Me!]()|
 |[]()|[Click Me!]()|
 |[]()|[Click Me!]()|
@@ -26,8 +33,6 @@
 |[]()|[Click Me!]()|
 |[]()|[Click Me!]()|
 |[]()|[Click Me!]()|
-|[]()|[Click Me!]()|
-
 
 
 
