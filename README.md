@@ -22,10 +22,10 @@
 |[Jumbo Javelin](https://github.com/mohaMgT/kattis_solution/blob/main/File/Jumbo%20Javelin/jumbojavelin.py)|[Click Me!](https://open.kattis.com/problems/jumbojavelin)|
 |[Add Two Numbers](https://github.com/mohaMgT/kattis_solution/tree/main/File/Add%20Two%20Numbers)|[Click Me!](https://open.kattis.com/problems/addtwonumbers)|
 |[Echo Echo Echo](https://github.com/mohaMgT/kattis_solution/tree/main/File/Echo%20Echo%20Echo)|[Click Me!](https://open.kattis.com/problems/echoechoecho)|
-|[]()|[Click Me!]()|
-|[]()|[Click Me!]()|
-|[]()|[Click Me!]()|
-|[]()|[Click Me!]()|
+|[Digit Swap](https://github.com/mohaMgT/kattis_solution/tree/main/File/Digit%20Swap)|[Click Me!](https://open.kattis.com/problems/digitswap)|
+|[N-sum](https://github.com/mohaMgT/kattis_solution/tree/main/File/N-sum)|[Click Me!](https://open.kattis.com/problems/nsum)|
+|[Two-sum](https://github.com/mohaMgT/kattis_solution/tree/main/File/Two-sum)|[Click Me!](https://open.kattis.com/problems/twosum)|
+|[Finding An A](https://github.com/mohaMgT/kattis_solution/tree/main/File/Finding%20An%20A)|[Click Me!](https://open.kattis.com/problems/findingana)|
 |[]()|[Click Me!]()|
 |[]()|[Click Me!]()|
 |[]()|[Click Me!]()|
