@@ -26,6 +26,12 @@
 |[N-sum](https://github.com/mohaMgT/kattis_solution/tree/main/File/N-sum)|[Click Me!](https://open.kattis.com/problems/nsum)|
 |[Two-sum](https://github.com/mohaMgT/kattis_solution/tree/main/File/Two-sum)|[Click Me!](https://open.kattis.com/problems/twosum)|
 |[Finding An A](https://github.com/mohaMgT/kattis_solution/tree/main/File/Finding%20An%20A)|[Click Me!](https://open.kattis.com/problems/findingana)|
+|[Which is Greater?](https://github.com/mohaMgT/kattis_solution/tree/main/File/Which%20is%20Greater)|[Click Me!](https://open.kattis.com/problems/whichisgreater)|
+|[Betting](https://github.com/mohaMgT/kattis_solution/tree/main/File/Betting)|[Click Me!](https://open.kattis.com/problems/betting)|
+|[Adding Trouble](https://github.com/mohaMgT/kattis_solution/tree/main/File/Adding%20Trouble)|[Click Me!](https://open.kattis.com/problems/addingtrouble)|
+|[Bitte ein Bit](https://github.com/mohaMgT/kattis_solution/tree/main/File/Bitte%20ein%20Bit)|[Click Me!](https://open.kattis.com/problems/bitteeinbit)|
+|[Shandy](https://github.com/mohaMgT/kattis_solution/tree/main/File/Shandy)|[Click Me!](https://open.kattis.com/problems/shandy)|
+|[Kiki Boba](https://github.com/mohaMgT/kattis_solution/tree/main/File/Kiki%20Boba)|[Click Me!](https://open.kattis.com/problems/kikiboba)|
 |[]()|[Click Me!]()|
 |[]()|[Click Me!]()|
 |[]()|[Click Me!]()|
@@ -33,7 +39,6 @@
 |[]()|[Click Me!]()|
 |[]()|[Click Me!]()|
 |[]()|[Click Me!]()|
-
 
 
 |[]()|[Click Me!]()|
